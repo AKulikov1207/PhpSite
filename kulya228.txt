@@ -1,1 +1,0 @@
-[name=>Andrey;surname=>Kulikov;otchestvo=>Vadimovich;day=>12;month=>07;year=>2000;gender=>Мужской;hobby=>coding;ganre=>[0=>comedy;1=>action;]predmet=>[0=>[math=>5;informatika=>4;physics=>3;chemistry=>;biology=>;]1=>[toch=>[total=>12;average=>2.4;]gum=>[total=>4;average=>1.3333333333333;]total=>16;average=>1.8666666666667;]2=>[russian=>4;english=>;literature=>;]]send=>Отправить;]
